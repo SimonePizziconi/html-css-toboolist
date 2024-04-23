@@ -65,8 +65,61 @@ input {
     margin-right: auto;
     padding-left: 50px;
     padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+span{
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.read::after{
+    content:;
 
 }
+
+#mobile ,#sales ,#web ,#recruiting ,#goals ,.editorial{
+    display: inline-block;  
+    padding: 5px;
+    border-radius: 15px;
+    color: #ffffffff;
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.editorial{
+    background-color: #66aaed;
+}
+
+#goals{
+    background-color: #9676df;
+}
+
+#recruiting{
+    background-color: #7bbcaa;
+}
+
+#mobile{
+    background-color: #e7a04e;
+}
+
+#web{
+    background-color: #cb6a9e;
+}
+
+#sales{
+    background-color: #b4c74e;
+}
+
+#today{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
 
 
 
