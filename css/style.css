@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+/* css del header */
+header{
+    height: 80px;
+    background-color: white;
+}
+
+img {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+/* css del main */
+
+#head-section {
+    background-color: white;
+    margin-top: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-left: 50px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#add-task{
+    background-color: #66aaed;
+    color: white;
+}
+
+#add-section{
+    background-color: white;
+    border: 1px solid lightgray;
+    color: lightgrey;
+}
+
+#body-section{
+    background-color: white;
+    margin-top: 2px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-top: 40px;
+
+}
+
+
+
