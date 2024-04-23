@@ -103,9 +103,9 @@ h2::before{
 }
 
 
-#mobile ,#sales ,#web ,#recruiting ,#goals ,.editorial{
+.tag{
     display: inline-block;  
-    padding: 5px;
+    padding: 8px;
     border-radius: 15px;
     color: #ffffffff;
     font-size: 10px;
@@ -116,23 +116,23 @@ h2::before{
     background-color: #66aaed;
 }
 
-#goals{
+.goals{
     background-color: #9676df;
 }
 
-#recruiting{
+.recruiting{
     background-color: #7bbcaa;
 }
 
-#mobile{
+.mobile{
     background-color: #e7a04e;
 }
 
-#web{
+.web{
     background-color: #cb6a9e;
 }
 
-#sales{
+.sales{
     background-color: #b4c74e;
 }
 
